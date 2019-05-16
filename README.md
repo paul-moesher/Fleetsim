@@ -1,2 +1,2 @@
 # fleetSim
-C# program that generates random car data  
+C# program that generates random car data.  
